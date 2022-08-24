@@ -10,25 +10,17 @@ Java v17, Spring Framework. NodeJS, GCP, Firebase, Micro-service, Websocket. API
 MySQL, NoSQL : Firebase Realtime Database, MongoDB.
 
 ### Collaboration:
-Discord, Versionning Git, Jira, Agility.
+Discord, Versionning Git, Jira, Agility.    
 
-[![logo linkedin](img/linkedin-23x23.svg)](https://www.linkedin.com/in/nicolashornuel/)
-
-![logo vscode](img/vscode-h50.svg)
-![logo html](img/html-h50.svg)
-![logo css](img/css-h50.svg)
-![logo javascript](img/javascript-h50.svg)
-![logo angular](img/angular-h50.svg)
-![logo typescript](img/typescript-h50.svg)
-![logo sass](img/sass-h50.svg)
-![logo nodejs](img/nodejs-h50.svg)
-![logo java](img/java-h50.svg)
-![logo spring](img/spring-h50.svg)
-![logo git](img/git-h50.svg)
+![logo vscode](img/vscode-h50.svg)&nbsp;&nbsp;&nbsp;
+![logo html](img/html-h50.svg)&nbsp;&nbsp;&nbsp;
+![logo css](img/css-h50.svg)&nbsp;&nbsp;&nbsp;
+![logo javascript](img/javascript-h50.svg)&nbsp;&nbsp;&nbsp;
+![logo angular](img/angular-h50.svg)&nbsp;&nbsp;&nbsp;
+![logo typescript](img/typescript-h50.svg)&nbsp;&nbsp;&nbsp;
+![logo sass](img/sass-h50.svg)&nbsp;&nbsp;&nbsp;
+![logo nodejs](img/nodejs-h50.svg)&nbsp;&nbsp;&nbsp;
+![logo java](img/java-h50.svg)&nbsp;&nbsp;&nbsp;
+![logo spring](img/spring-h50.svg)&nbsp;&nbsp;&nbsp;
+![logo git](img/git-h50.svg)&nbsp;&nbsp;&nbsp;
 ![logo mysql](img/mysql-h50.svg)
-
-
-
-
-
-
