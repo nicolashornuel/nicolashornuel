@@ -13,3 +13,7 @@ MySQL, NoSQL : Firebase Realtime Database, MongoDB.
 Discord, Versionning Git, Jira, Agility.
 
 ![logo](img/768px-HTML5_logo_and_wordmark.svg.png)
+
+<div style="float:left;margin:0 10px 10px 0" markdown="1">
+    ![logo](img/768px-HTML5_logo_and_wordmark.svg.png)
+</div>
