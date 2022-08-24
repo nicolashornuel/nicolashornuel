@@ -11,3 +11,5 @@ MySQL, NoSQL : Firebase Realtime Database, MongoDB.
 
 ### Collaboration:
 Discord, Versionning Git, Jira, Agility.
+
+[![logo linkedin](img/linkedin-23x23.svg)](https://www.linkedin.com/in/nicolashornuel/)
