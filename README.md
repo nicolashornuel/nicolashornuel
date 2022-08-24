@@ -1,6 +1,6 @@
 # 👋 Hello here are my skills in progress :
 
-#### Front-End:
+### Front-End:
 HTML5, CSS3, JS. Framework Angular v13, Language Typescript, SCSS. Components Material, Nebular, Bootstrap.
 
 ### Back-End:
