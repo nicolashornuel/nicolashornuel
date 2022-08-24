@@ -12,4 +12,4 @@ MySQL, NoSQL : Firebase Realtime Database, MongoDB.
 ### Collaboration:
 Discord, Versionning Git, Jira, Agility.
 
-![<img src="img/768px-HTML5_logo_and_wordmark.svg.png" width="30" />](img/768px-HTML5_logo_and_wordmark.svg.png)
+![logo](img/768px-HTML5_logo_and_wordmark.svg.png)
