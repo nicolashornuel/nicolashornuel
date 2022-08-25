@@ -1,16 +1,16 @@
 
-## *Hello here are my current skills*
+## *Hello, here are my current skills :*
 
-#### Front-End:
+### Front-End:
 HTML5, CSS3, JS. Framework Angular v13, Language Typescript, SCSS. Components Material, Nebular, Bootstrap.
 
-#### Back-End:
+### Back-End:
 Java v17, Spring Framework. NodeJS, GCP, Firebase, Micro-service, Websocket. API Rest, Postman.
 
-#### Database:
+### Database:
 MySQL, NoSQL : Firebase Realtime Database, MongoDB.
 
-#### Collaboration:
+### Collaboration:
 Discord, Versionning Git, Jira, Agility.    
 <br></br>
 <img align="left" style="padding-right:11px;" height="30px" alt="vscode" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
@@ -32,8 +32,9 @@ Discord, Versionning Git, Jira, Agility.
 <br></br>
 <br></br>
 <a href="https://github.com/anuraghazra/github-readme-stats" >
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=nicolashornuel&show_icons=true&include_all_commits=true&show_owner=false&hide=contribs" />
+<img src="https://github-readme-stats.vercel.app/api?username=nicolashornuel&show_icons=true&include_all_commits=true&show_owner=false&hide=contribs" />
   </a>
+  <br></br>
   <a href="https://github.com/anuraghazra/github-readme-stats">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolashornuel&layout=compact" />
   </a>
