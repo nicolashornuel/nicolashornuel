@@ -29,3 +29,7 @@ Discord, Versionning Git, Jira, Agility.
 <img align="left" style="padding-right:11px;" height="30px" alt="figma" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
 <img align="left" style="padding-right:11px;" height="30px" alt="jira" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" />
 
+<p>
+<img style="margin-top:500px;" src="https://github-readme-stats.vercel.app/api?username=nicolashornuel&show_icons=true&include_all_commits=true&show_owner=false" />
+</p>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nicolashornuel&layout=compact)
