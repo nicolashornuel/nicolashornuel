@@ -33,17 +33,24 @@
 <img align="left" style="padding-right:11px;" height="30px" alt="jira" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" />
 <br></br>
 <br></br>
+
 <a href="https://github.com/anuraghazra/github-readme-stats" >
-<img src="https://github-readme-stats.vercel.app/api?username=nicolashornuel&show_icons=true&include_all_commits=true&show_owner=false&hide=contribs" />
-  </a>
+  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=nicolashornuel&show_icons=true&include_all_commits=true&show_owner=false&hide=contribs&theme=dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=nicolashornuel&show_icons=true&include_all_commits=true&show_owner=false&hide=contribs">
+  <img src="https://github-readme-stats.vercel.app/api?username=nicolashornuel&show_icons=true&include_all_commits=true&show_owner=false&hide=contribs">
+</picture>
+</a>
+
   <br></br>
+  
   <a href="https://github.com/anuraghazra/github-readme-stats">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolashornuel&layout=compact" />
+    <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolashornuel&layout=compact&theme=dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolashornuel&layout=compact">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolashornuel&layout=compact">
+</picture>
   </a>
   
-  <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/25423296/163456776-7f95b81a-f1ed-45f7-b7ab-8fa810d529fa.png">
-  <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
-  <img alt="Shows an illustrated sun in light color mode and a moon with stars in dark color mode." src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
-</picture>
+
 
