@@ -28,8 +28,10 @@ Discord, Versionning Git, Jira, Agility.
 <img align="left" style="padding-right:11px;" height="30px" alt="firebase" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" />
 <img align="left" style="padding-right:11px;" height="30px" alt="figma" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
 <img align="left" style="padding-right:11px;" height="30px" alt="jira" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" />
-
 <br></br>
+<a href="https://github.com/anuraghazra/github-readme-stats">
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=nicolashornuel&show_icons=true&include_all_commits=true&show_owner=false&hide=contribs" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
 <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolashornuel&layout=compact" />
-
+  </a>
