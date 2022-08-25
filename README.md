@@ -1,4 +1,4 @@
-# Hello here are my current skills :
+# Hello here are my current skills s and tools:
 
 ### Front-End:
 HTML5, CSS3, JS. Framework Angular v13, Language Typescript, SCSS. Components Material, Nebular, Bootstrap.
@@ -24,3 +24,8 @@ Discord, Versionning Git, Jira, Agility.
 ![logo spring](img/spring-h50.svg)&nbsp;&nbsp;&nbsp;
 ![logo git](img/git-h50.svg)&nbsp;&nbsp;&nbsp;
 ![logo mysql](img/mysql-h50.svg)
+
+<img align="left" style="padding-right:11px;" height="30px" alt="vscode" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+<img align="left" style="padding-right:11px;" height="30px" alt="html5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+<img alt="vscode" height="30px" src="img/vscode-h50.svg" />
+<img height="30px" src="img/vscode-h50.svg" />
