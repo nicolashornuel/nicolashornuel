@@ -1,16 +1,16 @@
 
 ## *Hello, here are my current skills :*
 
-### Front-End:
+### :star: Front-End:
 #### HTML5, CSS3, JS. Framework Angular v13, Language Typescript, SCSS. Components Material, Nebular, Bootstrap.
 
-### Back-End:
+### :star: Back-End:
 #### Java v17, Spring Framework. NodeJS, GCP, Firebase, Micro-service, Websocket. API Rest, Postman.
 
-### Database:
+### :star: Database:
 #### MySQL, NoSQL : Firebase Realtime Database, MongoDB.
 
-### Collaboration:
+### :star: Collaboration:
 #### Discord, Versionning Git, Jira, Agility.
 
 
