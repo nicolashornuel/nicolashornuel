@@ -1,17 +1,19 @@
 
 ## *Hello, here are my current skills :*
 
-### Front-End:
+#### Front-End:
 HTML5, CSS3, JS. Framework Angular v13, Language Typescript, SCSS. Components Material, Nebular, Bootstrap.
 
-### Back-End:
+#### Back-End:
 Java v17, Spring Framework. NodeJS, GCP, Firebase, Micro-service, Websocket. API Rest, Postman.
 
-### Database:
+#### Database:
 MySQL, NoSQL : Firebase Realtime Database, MongoDB.
 
-### Collaboration:
-Discord, Versionning Git, Jira, Agility.    
+#### Collaboration:
+Discord, Versionning Git, Jira, Agility.
+
+
 <br></br>
 <img align="left" style="padding-right:11px;" height="30px" alt="vscode" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
 <img align="left" style="padding-right:11px;" height="30px" alt="html5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
