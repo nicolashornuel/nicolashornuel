@@ -1,5 +1,5 @@
 <div align="right">
-  <a href="https://nicolashornuel.github.io/portfolio/">
+  <a href="https://nicolashornuel.github.io/portfolio/" target="_blank">
    :point_right: https://nicolashornuel.github.io/portfolio/
   </a>
 </div>
