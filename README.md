@@ -1,9 +1,3 @@
-<div align="right">
-  <a href="https://nicolashornuel.github.io/portfolio/" target="_blank">
-   :point_right: https://nicolashornuel.github.io/portfolio/
-  </a>
-</div>
-
 ## *Hello, here are my current skills :*
 
 ### Front-End:
@@ -18,8 +12,8 @@
 ### Collaboration:
 #### Discord, Versionning Git, Jira, Agility.
 
-
 <br></br>
+
 <img align="left" style="padding-right:11px;" height="30px" alt="vscode" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
 <img align="left" style="padding-right:11px;" height="30px" alt="html5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
 <img align="left" style="padding-right:11px;" height="30px" alt="css3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
@@ -36,7 +30,18 @@
 <img align="left" style="padding-right:11px;" height="30px" alt="firebase" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" />
 <img align="left" style="padding-right:11px;" height="30px" alt="figma" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
 <img align="left" style="padding-right:11px;" height="30px" alt="jira" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" />
+
 <br></br>
+
+<a href="https://nicolashornuel.github.io/portfolio/">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" src="img/web-30px-white.svg">
+    <source media="(prefers-color-scheme: light)" src="img/web-30px-black.svg">
+    <img align="left" style="padding-right:11px;" height="30px" src="img/web-30px-black.svg">
+  </picture>
+  https://nicolashornuel.github.io/portfolio/
+</a>
+
 <br></br>
 
 <a href="https://github.com/anuraghazra/github-readme-stats" >
@@ -57,12 +62,3 @@
   </picture>
 </a>
   
-***
-<a href="https://nicolashornuel.github.io/portfolio/">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" src="img/web-30px-white.svg">
-    <source media="(prefers-color-scheme: light)" src="img/web-30px-black.svg">
-    <img align="left" style="padding-right:11px;" height="30px" src="img/web-30px-black.svg">
-  </picture>
-  https://nicolashornuel.github.io/portfolio/
-</a>
