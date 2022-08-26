@@ -52,5 +52,12 @@
 </picture>
   </a>
   
+    <a href="https://nicolashornuel.github.io/portfolio/">
+    <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolashornuel&layout=compact&theme=dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolashornuel&layout=compact">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolashornuel&layout=compact">
+</picture>
+  </a>
 
 
