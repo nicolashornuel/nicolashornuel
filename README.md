@@ -1,4 +1,3 @@
-
 ## *Hello, here are my current skills :*
 
 ### Front-End:
@@ -36,28 +35,30 @@
 
 <a href="https://github.com/anuraghazra/github-readme-stats" >
   <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=nicolashornuel&show_icons=true&include_all_commits=true&show_owner=false&hide=contribs&theme=dark">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=nicolashornuel&show_icons=true&include_all_commits=true&show_owner=false&hide=contribs">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=nicolashornuel&show_icons=true&include_all_commits=true&show_owner=false&hide=contribs&theme=dark">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=nicolashornuel&show_icons=true&include_all_commits=true&show_owner=false&hide=contribs">
   <img src="https://github-readme-stats.vercel.app/api?username=nicolashornuel&show_icons=true&include_all_commits=true&show_owner=false&hide=contribs">
-</picture>
+  </picture>
 </a>
 
-  <br></br>
+<br></br>
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolashornuel&layout=compact&theme=dark">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolashornuel&layout=compact">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolashornuel&layout=compact">
+  </picture>
+</a>
   
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolashornuel&layout=compact&theme=dark">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolashornuel&layout=compact">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolashornuel&layout=compact">
-</picture>
-  </a>
-  
-    <a href="https://nicolashornuel.github.io/portfolio/">
-    <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolashornuel&layout=compact&theme=dark">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolashornuel&layout=compact">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolashornuel&layout=compact">
-</picture>
-  </a>
+***
+<a href="https://nicolashornuel.github.io/portfolio/">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" src="img/web-30px-white.svg">
+    <source media="(prefers-color-scheme: light)" src="img/web-30px-black.svg">
+    <img align="left" style="padding-right:11px;" height="30px" src="img/web-30px-black.svg">
+  </picture>
+  https://nicolashornuel.github.io/portfolio/
+</a>
 
 
