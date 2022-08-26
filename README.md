@@ -66,16 +66,3 @@
   </picture>
   https://nicolashornuel.github.io/portfolio/
 </a>
-
-<div align="right">
-  <a href="https://nicolashornuel.github.io/portfolio/">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" src="img/web-30px-white.svg">
-      <source media="(prefers-color-scheme: light)" src="img/web-30px-black.svg">
-      <img style="padding-right:11px;" height="15px" src="img/web-30px-black.svg">
-    </picture>
-    <span>https://nicolashornuel.github.io/portfolio/</span>
-  </a>
-</div>
-
-
