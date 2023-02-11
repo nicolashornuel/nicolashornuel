@@ -33,20 +33,31 @@
 
 <br></br>
 
-<a href="https://fourthproject-aff75.web.app/">
+# portfolio
+
+[![pages-build-deployment](https://github.com/nicolashornuel/portfolio/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/nicolashornuel/portfolio/actions/workflows/pages/pages-build-deployment)
+
+<a href="https://nicolashornuel.github.io/portfolio/">
   <picture>
     <source media="(prefers-color-scheme: dark)" src="img/web-30px-white.svg">
     <source media="(prefers-color-scheme: light)" src="img/web-30px-black.svg">
     <img align="left" style="padding-right:11px;" height="30px" src="img/web-30px-black.svg">
   </picture>
-  go to my personal Project
+  https://nicolashornuel.github.io/portfolio/
 </a>
 
-# portfolio
+<p>
+  [![pages-build-deployment](https://github.com/nicolashornuel/portfolio/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/nicolashornuel/portfolio/actions/workflows/pages/pages-build-deployment)
 
-[![pages-build-deployment](https://github.com/nicolashornuel/portfolio/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/nicolashornuel/portfolio/actions/workflows/pages/pages-build-deployment)
-
-https://nicolashornuel.github.io/portfolio/
+<a href="https://nicolashornuel.github.io/portfolio/">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" src="img/web-30px-white.svg">
+    <source media="(prefers-color-scheme: light)" src="img/web-30px-black.svg">
+    <img align="left" style="padding-right:11px;" height="30px" src="img/web-30px-black.svg">
+  </picture>
+  https://nicolashornuel.github.io/portfolio/
+</a>
+ </p>
 
 <br></br>
 
