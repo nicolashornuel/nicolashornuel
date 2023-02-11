@@ -41,6 +41,7 @@
   </picture>
   go to my personal Project
 </a>
+[![pages-build-deployment](https://github.com/nicolashornuel/portfolio/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/nicolashornuel/portfolio/actions/workflows/pages/pages-build-deployment)
 
 <br></br>
 
