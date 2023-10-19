@@ -48,16 +48,6 @@
 
 <br></br>
 
-<a href="https://github.com/anuraghazra/github-readme-stats" >
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=nicolashornuel&show_icons=true&include_all_commits=true&show_owner=false&hide=contribs&theme=dark">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=nicolashornuel&show_icons=true&include_all_commits=true&show_owner=false&hide=contribs">
-  <img src="https://github-readme-stats.vercel.app/api?username=nicolashornuel&show_icons=true&include_all_commits=true&show_owner=false&hide=contribs">
-  </picture>
-</a>
-
-<br></br>
-
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolashornuel&layout=compact&theme=dark">
