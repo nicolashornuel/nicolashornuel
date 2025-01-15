@@ -1,35 +1,26 @@
 # *Hello, here are my current skills :*
 
 ## Front-End :
-HTML5, CSS3, JSES6.  
-Typescript, Angular, RxJS, SCSS, Nebular.  
-JSF, Primefaces - ThymLeaf, Bootstrap.  
-Chart.js, Canvas.
+HTML5, CSS3, JSES6 - Typescript, Angular, RxJS, SCSS, Nebular.  
+JSF, Primefaces - ThymLeaf, Bootstrap - Chart.js, Canvas.
 
 ## Back-End :
 Java, Stream API, Spring MVC, Spring Security, Spring Boot, Hybernate ORM, HQL, Lombok, JasperReport, Apache POI.   
-NodeJS, Express.  
-API REST, Postman.
+NodeJS, Express - API REST, Postman.
 
 ## Database:
-MySQL, MariaDB, Oracle.  
-Firestore, MongoDB, GraphQL.  
+MySQL, MariaDB, Oracle - Firestore, MongoDB, GraphQL.  
 Liquibase, DBeaver.  
 
 ## DevOps:
-Docker, DevContainer.  
-nginx, treafik.  
-Firebase, Cloud-Run, Cloud-Function.  
-GitHub Actions.  
-Graylog.
+Docker, DevContainer - nginx, treafik - Firebase, Cloud-Run, Cloud-Function.  
+GitHub Actions - Graylog.
 
 ## Test:
 JUnit, Cypress.
 
 ## Tools:
-Git, GitLab, GitHub.  
-Jira, Confluence.  
-StarUML, Figma.
+Git, GitLab, GitHub - Jira, Confluence - StarUML, Figma.
 
 ## IDE:
 Eclipse, IntelliJ, Visual Studio Code, copilot.
