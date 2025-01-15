@@ -1,16 +1,25 @@
 ## *Hello, here are my current skills :*
 
 ### Front-End:
-#### HTML5, CSS3, JS. Framework Angular v13, Language Typescript, SCSS. Components Material, Nebular, Bootstrap.
+#### HTML5, CSS3, JSES6. Typescript, Angular, RxJS, SCSS. JSF, ThymLeaf, Primefaces, Bootstrap, Nebular. Chart.js. Canvas.
 
 ### Back-End:
-#### Java v17, Spring Framework. NodeJS, GCP, Firebase, Micro-service, Websocket. API Rest, Postman.
+#### Java, Stream API, Spring MVC, Spring Security, Spring Boot, Hybernate ORM, HQL, Lombok. Websocket. JasperReport. Apache POI. Postman. Liquibase. NodeJS, Express.
 
 ### Database:
-#### MySQL, NoSQL : Firebase Realtime Database, MongoDB.
+#### MySQL, MariaDB, Oracle - Firestore, MongoDB, GraphQL - DBeaver.
 
-### Collaboration:
-#### Discord, Versionning Git, Jira, Agility.
+### DevOps:
+#### Docker, DevContainer - Firebase, Cloud-Run, Cloud-Function - GitHub Actions - Graylog.
+
+### Test:
+#### JUnit, Cypress.
+
+### Tools:
+#### Git, GitLab, GitHub, Jira, Confluence, StarUML, BookStack, Figma, Discord, Excel.
+
+### IDE:
+#### Eclipse, IntelliJ, Visual Studio Code, copilot.
 
 <br></br>
 
