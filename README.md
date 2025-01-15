@@ -1,25 +1,38 @@
-## *Hello, here are my current skills :*
+# *Hello, here are my current skills :*
 
-### Front-End:
-#### HTML5, CSS3, JSES6. Typescript, Angular, RxJS, SCSS. JSF, ThymLeaf, Primefaces, Bootstrap, Nebular. Chart.js. Canvas.
+## Front-End :
+HTML5, CSS3, JSES6.  
+Typescript, Angular, RxJS, SCSS, Nebular.  
+JSF, Primefaces - ThymLeaf, Bootstrap.  
+Chart.js, Canvas.
 
-### Back-End:
-#### Java, Stream API, Spring MVC, Spring Security, Spring Boot, Hybernate ORM, HQL, Lombok. Websocket. JasperReport. Apache POI. Postman. Liquibase. NodeJS, Express.
+## Back-End :
+Java, Stream API, Spring MVC, Spring Security, Spring Boot, Hybernate ORM, HQL, Lombok, JasperReport, Apache POI.   
+NodeJS, Express.  
+API REST, Postman.
 
-### Database:
-#### MySQL, MariaDB, Oracle - Firestore, MongoDB, GraphQL - DBeaver.
+## Database:
+MySQL, MariaDB, Oracle.  
+Firestore, MongoDB, GraphQL.  
+Liquibase, DBeaver.  
 
-### DevOps:
-#### Docker, DevContainer - Firebase, Cloud-Run, Cloud-Function - GitHub Actions - Graylog.
+## DevOps:
+Docker, DevContainer.  
+nginx, treafik.  
+Firebase, Cloud-Run, Cloud-Function.  
+GitHub Actions.  
+Graylog.
 
-### Test:
-#### JUnit, Cypress.
+## Test:
+JUnit, Cypress.
 
-### Tools:
-#### Git, GitLab, GitHub, Jira, Confluence, StarUML, BookStack, Figma, Discord, Excel.
+## Tools:
+Git, GitLab, GitHub.  
+Jira, Confluence.  
+StarUML, Figma.
 
-### IDE:
-#### Eclipse, IntelliJ, Visual Studio Code, copilot.
+## IDE:
+Eclipse, IntelliJ, Visual Studio Code, copilot.
 
 <br></br>
 
